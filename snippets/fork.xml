@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="fork"
+           fetch="https://github.com/lineagefork/" />
+
+  <project path="vendor/lineage" name="android_vendor_lineage" remote="fork" />
+
+</manifest>
