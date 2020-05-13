@@ -2,6 +2,7 @@
 <manifest>
 
   <project path="vendor/lineage" name="android_vendor_lineage" remote="fork" />
+  <project path="vendor/microg" name="android_vendor_microg" remote="fork" revision="master" />
   <project path="packages/apps/GmsCore" name="NoGoolag/android_packages_apps_GmsCore" revision="master" />
   <project path="packages/apps/FakeStore" name="MicroG/android_packages_apps_FakeStore" revision="master" />
   <project path="packages/apps/GsfProxy" name="MicroG/android_packages_apps_GsfProxy" revision="master" />
